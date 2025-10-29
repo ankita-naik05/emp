@@ -1,2 +1,3 @@
 s=50000
-print("salary:",s)
+b=s+s*0.1
+print("bonus added:",b)
